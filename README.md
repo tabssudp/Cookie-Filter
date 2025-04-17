@@ -23,7 +23,7 @@ Feel free to modify and distribute the CODES. You can change everything.
 
 👏 👏 👏 
 
-> Value updates uploaded to Github | You can change all what you want. Is just a simple cookie filter with GUI using `customtkinter`.
+> Tabss updates uploaded to Github | You can change all what you want. Is just a simple cookie filter with GUI using `customtkinter`.
 
 ## PREVIEW 
 ![image](https://github.com/user-attachments/assets/1462077d-839f-468f-a655-6138afcd70a9)
@@ -33,4 +33,4 @@ Feel free to modify and distribute the CODES. You can change everything.
 
  **DISCORD** : https://discord.com/users/1160553696048975905
  
- **TELEGRAM** : https://t.me/kerhell
+ **TELEGRAM** : https://t.me/tabssdll
